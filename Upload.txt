@@ -1,0 +1,234 @@
+richlovell
+richlovell date
+richlovell 
+date
+richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+date +DATE: %Y-%m-%d%nTIME: %H:%M:%S
+richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+
+richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+2017-12-06 08:42:40
+richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Date of transfer : 2017-12-06 08:43:34
+richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Date of transfer : 2017-12-06 08:50:32
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+/var/folders/2g/5bf4m_9x0jl32rhy5pz9n88m00010l/T/Upload-534243032.837.sh: line 40: unexpected EOF while looking for matching `"'
+/var/folders/2g/5bf4m_9x0jl32rhy5pz9n88m00010l/T/Upload-534243032.837.sh: line 41: syntax error: unexpected end of file
+Date of transfer : 2017-12-06 08:51:18
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy :  find /Users/richlovell/TESTA/
+Date of transfer : 2017-12-06 08:53:09
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy :\nfind
+Date of transfer : 2017-12-06 08:54:05
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy :\n
+Date of transfer : 2017-12-06 08:54:54
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : n
+Date of transfer : 2017-12-06 08:56:38
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : $\ncopylist
+richlovell
+Date of transfer : 2017-12-06 13:06:29
+User : richlovell
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : 
+
+ls: /Users/richlovell/TESTA: No such file or directory
+Date of transfer : 2017-12-06 13:07:25
+User : richlovell
+total 16
+drwxrwxr--   8 richlovell  staff   272B Dec  6 08:53 .
+drwxr-xr-x+ 45 richlovell  staff   1.5K Dec  6 13:07 ..
+-rw-r--r--@  1 richlovell  staff   6.0K Dec  6 08:53 .DS_Store
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_B
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_C
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:08 Test_D
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:10 Test_E
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:11 Test_F
+
+/Users/richlovell/TESTA/Test_B:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_C:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_D:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:08 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_E:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:10 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_F:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:11 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : 
+
+Date of transfer : 2017-12-06 13:08:41
+User : richlovell
+total 16
+drwxrwxr--   8 richlovell  staff   272B Dec  6 08:53 .
+drwxr-xr-x+ 45 richlovell  staff   1.5K Dec  6 13:08 ..
+-rw-r--r--@  1 richlovell  staff   6.0K Dec  6 08:53 .DS_Store
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_B
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_C
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:08 Test_D
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:10 Test_E
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:11 Test_F
+
+/Users/richlovell/TESTA/Test_B:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_C:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_D:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:08 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_E:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:10 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_F:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:11 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : 
+
+Date of transfer : 2017-12-06 13:33:00
+User : richlovell
+total 16
+drwxrwxr--   8 richlovell  staff   272B Dec  6 08:53 .
+drwxr-xr-x+ 45 richlovell  staff   1.5K Dec  6 13:33 ..
+-rw-r--r--@  1 richlovell  staff   6.0K Dec  6 08:53 .DS_Store
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_B
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_C
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:08 Test_D
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:10 Test_E
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:11 Test_F
+
+/Users/richlovell/TESTA/Test_B:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_C:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_D:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:08 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_E:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:10 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_F:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:11 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : 
+
+81:135: execution error: System Events got an error: AppleEvent timed out. (-1712)
+Date of transfer : 2017-12-06 13:29:23
+User : richlovell
+total 80
+drwxrwxr--  7 richlovell  staff   238B Dec  5 17:07 .
+drwxrwxrwx  9 richlovell  staff   306B Dec  5 11:27 ..
+-rw-r--r--@ 1 richlovell  staff   6.0K Dec  5 17:07 .DS_Store
+-rw-rw-r--  1 richlovell  staff   443B Dec  6 13:32 Upload.py
+-rw-rw-r--@ 1 richlovell  staff   4.4K Dec  5 13:28 Upload.scpt
+-rwxrw-r--@ 1 richlovell  staff   913B Dec  6 13:31 Upload.sh
+-rw-rw-r--@ 1 richlovell  staff   6.0K Dec  6 13:47 Upload.txt
+mv: rename  to /Users/richlovell/DUMMYSHARE/: No such file or directory
+Files included in copy : 
+
+81:135: execution error: System Events got an error: User canceled. (-128)
+Date of transfer : 2017-12-06 14:30:45
+User : richlovell
+total 80
+drwxrwxr--  7 richlovell  staff   238B Dec  5 17:07 .
+drwxrwxrwx  9 richlovell  staff   306B Dec  5 11:27 ..
+-rw-r--r--@ 1 richlovell  staff   6.0K Dec  5 17:07 .DS_Store
+-rw-rw-r--  1 richlovell  staff   448B Dec  6 14:30 Upload.py
+-rw-rw-r--@ 1 richlovell  staff   4.4K Dec  5 13:28 Upload.scpt
+-rwxrw-r--@ 1 richlovell  staff   913B Dec  6 13:31 Upload.sh
+-rw-rw-r--@ 1 richlovell  staff   6.6K Dec  6 14:30 Upload.txt
+mv: rename  to /Users/richlovell/DUMMYSHARE/: No such file or directory
+Files included in copy : 
+
+Date of transfer : 2017-12-06 17:03:15
+User : richlovell
+total 16
+drwxrwxr--   8 richlovell  staff   272B Dec  6 08:53 .
+drwxr-xr-x+ 45 richlovell  staff   1.5K Dec  6 17:03 ..
+-rw-r--r--@  1 richlovell  staff   6.0K Dec  6 08:53 .DS_Store
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_B
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:05 Test_C
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:08 Test_D
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:10 Test_E
+drwxrwxr--   2 richlovell  staff    68B Dec  5 17:11 Test_F
+
+/Users/richlovell/TESTA/Test_B:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_C:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:05 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_D:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:08 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_E:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:10 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+
+/Users/richlovell/TESTA/Test_F:
+total 0
+drwxrwxr--  2 richlovell  staff    68B Dec  5 17:11 .
+drwxrwxr--  8 richlovell  staff   272B Dec  6 08:53 ..
+/Users/richlovell/TESTA -> /Users/richlovell/DUMMYSHARE/TESTA
+Files included in copy : 
+
